@@ -21,12 +21,12 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 ## Plan
 
-0. <a href="" target="_blank">Introduction</a>
-1. <a href="" target="_blank">Présentation de Roblox Studio</a>
-2. <a href="" target="_blank">Race Against Time</a>
-3. <a href="" target="_blank">Disaster Game</a>
-4. <a href="" target="_blank">Capture the Flag</a>
-5. <a href="" target="_blank">Projet libre</a>
+0. <a href="https://futurekids-io.github.io/6.024-roblox/cours0/#1" target="_blank">Introduction</a>
+1. <a href="https://futurekids-io.github.io/6.024-roblox/cours1/#1" target="_blank">Présentation de Roblox Studio</a>
+2. <a href="https://futurekids-io.github.io/6.024-roblox/cours2/#1" target="_blank">Race Against Time</a>
+3. <a href="https://futurekids-io.github.io/6.024-roblox/cours3/#1" target="_blank">Disaster Game</a>
+4. <a href="https://futurekids-io.github.io/6.024-roblox/cours4/#1" target="_blank">Capture the Flag</a>
+5. <a href="https://futurekids-io.github.io/6.024-roblox/cours5/#1" target="_blank">Projet libre</a>
 
 
 ## Outils

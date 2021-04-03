@@ -1,107 +1,73 @@
 class: middle
 
-<h1>Création <br/>de <span class="secondary-color">site web<span></h1>
+<h1><span class="secondary-color main-title">Roblox</span></h1>
 
-### Cours 7
+### Introduction
 
-#### HTML & CSS
+#### &copy; Mikaël Ruffieux, 04.2021
 
-#### &copy; Mikaël Ruffieux, 03.2021
-
-<img class="first-slide-image" src="../sources_cours/img/first_slide.jpg">
+<img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 ---
 
-# Petit <span class="secondary-color">rappel</span>
+## Qui est <span class="secondary-color">en face</span> de vous ?
 
 <table class="unstyled-table">
   <tr>
-    <td>
-      <pre>
-        <code>
-<span class="red">p</span> {
-  <span class="green">font-size</span>: <span class="orange">14px</span>;
-  <span class="green">background-color</span>: <span class="orange">red</span>;
-}
-        </code>
-      </pre>
-    <td>
-    <td>
-      = <span class="red">sélecteur</span><br/>
-      = <span class="green">propriété (paramètre)</span><br/>
-      = <span class="orange">valeur</span>
+    <td style="width: 50%;">
+      <h3>Mikaël Ruffieux</h3>
+      J'ai 24 ans<br/><br/>
+      J'habite à <b>Epagny</b> et à <b>Neuchâtel</b><br/><br/>
+      <b>Ingénieur</b> des Médias à la HEIG-VD<br/><br/>
+      Mes hobbies : le <b>vélo</b> et la <b>vidéo</b><br/><br/>
+      Mon jeu vidéo préféré : <b>Minecraft</b>
+    </td>
+    <td style="width: 50%;">
+      <img style="max-height: 120px; width: auto;" src="../sources_cours/img/comem.jpg">
+      <img style="max-height: 150px; width: auto;" src="../sources_cours/img/mtb.jpeg">
+      <img style="max-height: 100px; width: auto;" src="../sources_cours/img/minecraft.png">
     </td>
   </tr>
 </table>
 
 ---
+class: middle
 
-# Petit <span class="secondary-color">rappel</span>
+## Qui est <span class="secondary-color">à côté</span> de vous ?
 
-### HTML
-```html
-<body>
-  <h1>Titre</h1>
-  <p id=’’test’’>Mon premier paragraphe.</p>
-  <p>Mon deuxième paragraphe.</p>
-</body>
-```
+- Discutez 5 min avec votre voisin.e
 
-### CSS
-```css
-body { background : red; }
-h1 { background : yellow; }
-p { color : blue;
-    background : black;
-}
-#test { color : green; }
-```
+- Présentez votre voisin.e à la classe (son nom, où il/elle habite, où il/elle va à l'école, ses hobbies, etc.)
+
 
 ---
+class:middle
 
-# Les <span class="secondary-color">ID</span> & les <span class="secondary-color">class</span>
+# Déroulement du <span class="secondary-color">cours</span>
 
-### HTML
-```html
-<div id=’’logo’’>...</div>
-<div class=’’titre’’>...</div>
-<p>...</p>
-```
+- Le cours commence à **13h30**, et se termine à **17h15** 
+  *(si possible, venez quelques minutes en avance, pour préparer votre matériel)*
 
-### CSS
-```css
-#logo { ... }
-.titre { ... }
-p { ... }
-```
-
-Il est possible d'utiliser **plusieurs fois** la même **classe** dans un document, mais un **ID** doit être **unique**.
+- Nous ferons deux pauses de 15 minutes *(horaires définir)*
 
 ---
+class:middle
 
-# Les <span class="secondary-color">couleurs</span>
-
-<table class="unstyled-table">
-  <tr>
-    <td><h3>Les noms</h3></td><td colspan="2"><h3>Les codes hexadécimaux</h3></td>
-  </tr>
-
-  <tr><td>black</td><td>#00000</td><td rowspan="9"><img src="../sources_cours/img/cours7_couleurs.png"/></td></tr>
-  <tr><td>white</td><td>#ffffff</td></tr>
-  <tr><td>grey</td><td>#_ _ _ _ _ _</td></tr>
-  <tr><td>blue</td><td></td></tr>
-  <tr><td>green</td><td></td></tr>
-  <tr><td>yellow</td><td></td></tr>
-  <tr><td>purple</td><td></td></tr>
-  <tr><td>red</td><td></td></tr>
-  <tr><td>...</td><td></td></tr>
-</table>
+# Programme du <span class="secondary-color">cours</span>
 
 
-<a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">Le sélecteur de couleur de W3Schools</a>
+1. Présentation de Roblox Studio
 
-???
+2. Création de 3 mini-jeu
 
-Exercice
+3. Création de votre projet libre
 
+---
+class:middle
+
+## Vous avez <br/>des <span class="secondary-color">questions</span> ? 
+
+Ouvrons maintenant [Roblox Studio]().
+
+<img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 
 <!-- ################ Fin de la présentation ################### -->

@@ -5,7 +5,13 @@ body { font-family: 'Source Serif Pro', serif; color: black}
 
 h1 {
   line-height: 3.5rem;
+  font-size: 45px!important;
 }
+
+.main-title {
+  font-size: 55px!important;
+}
+
 
 h1, h2 {
   font-family: 'Montserrat', sans-serif;
@@ -47,7 +53,7 @@ h3 {
   width:auto;
   position:absolute;
   top: 0px;
-  right: -80%;
+  right: -55%;
   -webkit-mask-image:-webkit-gradient(linear, right top, left top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
   mask-image: linear-gradient(to left, rgba(0,0,0,1), rgba(0,0,0,0));
 }
