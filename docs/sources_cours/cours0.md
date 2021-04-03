@@ -66,7 +66,7 @@ class:middle
 
 ## Vous avez <br/>des <span class="secondary-color">questions</span> ? 
 
-Ouvrons maintenant [Roblox Studio]().
+Ouvrons maintenant [Roblox Studio](https://futurekids-io.github.io/6.024-roblox/cours1/#1).
 
 <img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 
