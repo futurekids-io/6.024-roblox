@@ -6,13 +6,15 @@ Roblox ne permet pas uniquement de jouer, il offre la possibilité à toutes et 
 
 Pendant ce stage, les Kids vont utiliser cet outil pour apprendre les fondamentaux de la création de jeux vidéo.  Ils apprendront à s'approprier un jeu et à le modifier selon leurs souhaits. Ils pourront aussi devenir des survivants en bravant des désastres créés par leurs soins. Tout cela en se familiarisant avec le langage de programmation Lua, utilisé dans Roblox Studio. Une fois terminés, leurs jeux pourront être publiés sur le site Roblox.
 
+Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_blank">Centre Futurekids</a>, créé par <a href="https://futurekids.io/" target="_blank">Futurekids</a>, et adapté par <a href="https://redox-prod.ch" target="_blank">Mikaël Ruffieux</a>.
+
 ***
 
 Aucun prérequis n’est nécessaire mais il faut être prêt-e à taper au clavier.
 
 ***
 
-Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_blank">Centre Futurekids</a>, créé par <a href="https://futurekids.io/" target="_blank">Futurekids</a>, et adapté par <a href="https://redox-prod.ch" target="_blank">Mikaël Ruffieux</a>.
+### Navigation
 
 - [Plan](#plan)
 - [Outils](#outils)
