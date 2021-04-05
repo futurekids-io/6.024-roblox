@@ -47,7 +47,16 @@ class:middle
 - Le cours commence à **13h30**, et se termine à **17h15** 
   *(si possible, venez quelques minutes en avance, pour préparer votre matériel)*
 
-- Nous ferons deux pauses de 15 minutes *(horaires définir)*
+- Nous ferons deux pauses de **15 minutes** *(horaires définir)*
+
+- Sur le principe, on évite d'utiliser son **téléphone portable** pendant le cours et les pauses. Si vous avez besoin, vous pouvez me demander
+
+<span class="secondary-color"><b>Spécialités COVID</b></span>
+- **Désinfection** ou **lavage des mains** quand on entre en classe *(au début, et après les pauses)*
+
+- Les personnes âgées de **12 ans et plus** doivent porter un masque
+
+- À la fin du cours, chacun.e **désinfecte** sa place de travail
 
 ---
 class:middle
@@ -61,12 +70,20 @@ class:middle
 
 3. Création de votre projet libre
 
+<span class="secondary-color"><b>Compétences</b></span>
+
+- Introduction à la création de jeux vidéos
+
+- Introduction à la création d'univers en 3D
+
+- Introduction au langage de programmation *Lua*
+
+*Remarque : toutes les slides du cours sont disponibles à l'adresse suivante : https://github.com/futurekids-io/*
+
 ---
 class:middle
 
 ## Vous avez <br/>des <span class="secondary-color">questions</span> ? 
-
-Ouvrons maintenant [Roblox Studio](https://futurekids-io.github.io/6.024-roblox/cours1/#1).
 
 <img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 
