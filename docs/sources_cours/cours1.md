@@ -347,4 +347,4 @@ Et voilà, tout le monde peut maintenant jouer à **votre jeu** !
 ---
 class:middle, center
 
-# À demain, en <span class="secondary-color">pleine forme</span>
+# À demain <br/> en <span class="secondary-color">pleine forme</span>

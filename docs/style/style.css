@@ -72,3 +72,10 @@ a:hover {
 a:visited {
   color:rgb(45, 189, 239) 
 }
+
+blockquote {
+  border-left: 1px solid darkgrey;
+  padding-left: 15px;
+  margin: 0px;
+  font-style: italic;
+}

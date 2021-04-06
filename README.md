@@ -33,8 +33,9 @@ Aucun prérequis n’est nécessaire mais il faut être prêt-e à taper au clav
 
 ## Outils
 
-
-
-## Exercices
+- <a href="https://www.roblox.com/create" target="_blank">Roblox Studio</a> 
 
 ## Liens utiles
+
+- <a href="https://www.roblox.com/login" target="_blank">Connexion au compte Roblox</a>
+- <a href="https://www.roblox.com/users/1402408788/profile" target="_blank">Le compte de FutureKids</a>
