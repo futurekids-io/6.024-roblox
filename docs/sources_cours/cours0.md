@@ -47,7 +47,7 @@ class:middle
 - Le cours commence à **13h30**, et se termine à **17h15** 
   *(si possible, venez quelques minutes en avance, pour préparer votre matériel)*
 
-- Nous ferons deux pauses de **15 minutes** *(horaires définir)*
+- Nous ferons une grande pause de **30 minutes**, vers 15h
 
 - Sur le principe, on évite d'utiliser son **téléphone portable** pendant le cours et les pauses. Si vous avez besoin, vous pouvez me demander
 
