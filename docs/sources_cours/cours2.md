@@ -176,4 +176,128 @@ Pour créer nos *EnergySphere* :
 
 # Les <span class="secondary-color">scripts</span>
 
-(p. 54 du Manuel)
+Nous allons maintenant créer un **script** pour notre sphère.
+
+Sélectionnez la sphère, et cliquez sur **"+"** > **"Script"**.
+
+Une nouvelle fenêtre s'ouvre.
+
+```lua
+print("Hello World!")
+```
+
+Vous pouvez modifier le texte. Dans l'onglet **View**, cliquez sur **Output**.
+
+Lancez le jeu, et observer la zone **Output**.
+
+---
+
+# Les <span class="secondary-color">scripts</span>
+
+Renommez le script : **DisappearingSphere**
+
+Dans le script, écrivez les commandes suivantes : 
+
+```lua
+local randomTime = math.random(60, 90)
+
+wait(randomTime)
+
+script.Parent:Destroy()
+
+workspace.NumberOfEnergySphereLeft.Value 
+    = workspace.NumberOfEnergySphereLeft.Value - 1
+```
+---
+
+# Les <span class="secondary-color">scripts</span>
+
+Créons un second script : **Touch**
+
+Dans le script, écrivez les commandes suivantes : 
+
+```lua
+script.Parent.Touched:connect(function(hit)
+    if hit:Parent:FindFirstChild("Humanoid") then
+
+        hit.Parent.Humanoid.Walkspeed 
+            = hit.Parent.Humanoid.Walkspeed + 10
+
+        workspace.Points.Value = workspace.Points.Value + 1
+
+        workspace.NumberOfEnergySphereLeft.Value 
+            = workspace.NumberOfEnergySphereLeft.Value - 1
+
+        script.Parent:Destroy()
+    end
+end)
+```
+---
+# Création de notre <span class="secondary-color">Interface Utilisateur</span>
+
+Pour notre jeu, nous allons créer **2 textes** :
+
+- Le texte qui affichera le score;
+
+- Le texte qui affichera, à la fin, si on a gagné ou perdu.
+
+Pour cela, nous allons travailler dans le dossier **StarterGUI** *(Graphical User Interface)*.
+
+Commençons par créer une première zone de texte : 
+
+> **+** > **StarterGui** > **TextLabel** > **Script**
+
+---
+# Création de notre <span class="secondary-color">Interface Utilisateur</span>
+
+Dans notre script, que nous allons renommer **UpdateText**, nous allons entrer les commandes suivantes :
+
+```lua
+workspace.Points.Changed:Connect(function()
+    script.Parent.Text = "Tu as "..workspace.Points.Value.." points"
+end)
+```
+
+Nous pouvons personnaliser notre zone de texte, en modifiant les paramètres de **DisplayScore** :
+
+- **BackgroundColor3** : la couleur du fond
+- **BorderColor3** : la couleur de la bordure
+- **BorderSizePixel** : l'épaisseur de la bordure
+- **Font** : la police d'écriture
+- **Text** : le texte de base
+- **TextColor3** : la couleur du texte
+- **TextSize** : la taille du texte
+
+---
+# Création de notre <span class="secondary-color">Interface Utilisateur</span>
+
+Créons maintenant un nouveau TextLabel, que l'on nommera **Win/Loose**, avec un script **DisplayEnd**, dans lequel nous entrerons ces commandes :
+
+```lua
+ workspace.NumberOfEnergySphereLeft.Changed:Connect(function()
+	if workspace.NumberOfEnergySphereLeft.Value == 0 then
+		if workspace.Points.Value >= 3 then
+			script.Parent.BackgroundColor3 = Color3.new(0,1,0)
+			script.Parent.Text = "C'est gagné !"
+		else
+			script.Parent.BackgroundColor3 = Color3.new(1,0,0)
+			script.Parent.Text = "C'est perdu ..."
+		end
+		script.Parent.Visible = true
+	end
+end)
+```
+
+---
+# Création de notre <span class="secondary-color">Interface Utilisateur</span>
+
+Pour celles et ceux qui ont un peu de peine avec les scripts, vous pouvez directement importer les miens :
+
+**Toolbox** > **Filtres** > **Creator** : rdX_TheArrow
+
+Il ne vous reste qu'à les mettre au bon endroit.
+
+---
+class:middle, center
+
+# À demain <br/> en <span class="secondary-color">pleine forme</span>
