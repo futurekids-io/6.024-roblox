@@ -18,7 +18,6 @@ Aucun prérequis n’est nécessaire mais il faut être prêt-e à taper au clav
 
 - [Plan](#plan)
 - [Outils](#outils)
-- [Exercices](#exercices)
 - [Liens utiles](#liens-utiles)
 
 ## Plan
