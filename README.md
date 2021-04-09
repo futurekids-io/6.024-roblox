@@ -36,4 +36,6 @@ Aucun prérequis n’est nécessaire mais il faut être prêt-e à taper au clav
 ## Liens utiles
 
 - <a href="https://www.roblox.com/login" target="_blank">Connexion au compte Roblox</a>
-- <a href="https://www.roblox.com/users/1402408788/profile" target="_blank">Le compte de FutureKids</a>
+- <a href="https://www.roblox.com/users/1402408788/profile" target="_blank">Le compte de FutureKids : BabockFee</a>
+- Photos du cours *(bientôt disponibles)*
+<!-- - <a href="https://www.roblox.com/users/1402408788/profile" target="_blank">Photos du cours</a>-->
