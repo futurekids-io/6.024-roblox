@@ -31,6 +31,21 @@ Dans la première partie de l'exercice, je mets ma casquette de **patron**, et �
 Essayez d'utiliser des éléments déjà vu en cours.
 
 ---
+
+# Plan de <span class="secondary-color">travail</span>
+
+- Création de la carte
+
+- Ajout des objets de "décoration"
+
+- Ajout des objets "interactifs"
+
+- *Préparation des scripts*
+
+- Création de l'interface utilisateur
+
+
+---
 class:middle
 
 # Fin du <span class="secondary-color">cours</span>
