@@ -27,6 +27,9 @@ Dans la première partie de l'exercice, je mets ma casquette de **patron**, et �
     <img style="width:auto; max-height: 180px;" src="../sources_cours/img/cours5_boss.jpeg">
 </div>
 
+???
+Essayez d'utiliser des éléments déjà vu en cours.
+
 ---
 class:middle
 
