@@ -4,7 +4,7 @@ class: middle
 
 ### Cours 1
 
-#### &copy; Mikaël Ruffieux, 04.2021
+#### &copy; Mikaël Ruffieux, 07.2021
 
 <img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 ---
