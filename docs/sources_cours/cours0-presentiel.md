@@ -4,7 +4,7 @@ class: middle
 
 ### Introduction
 
-#### &copy; Mikaël Ruffieux, 07.2021
+#### &copy; Mikaël Ruffieux, 04.2021
 
 <img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 ---
@@ -32,9 +32,11 @@ class: middle
 ---
 class: middle
 
-## Qui <span class="secondary-color">êtes-vous</span> ?
+## Qui est <span class="secondary-color">à côté</span> de vous ?
 
-- Présentez-vous à la classe (votre nom, où vous habitez, où vous allez à l'école, vos hobbies, etc.)
+- Discutez 5 min avec votre voisin.e
+
+- Présentez votre voisin.e à la classe (son nom, où il/elle habite, où il/elle va à l'école, ses hobbies, etc.)
 
 
 ---
@@ -42,11 +44,19 @@ class:middle
 
 # Déroulement du <span class="secondary-color">cours</span>
 
-- Le cours commence à **14h00**, et se termine à **16h00** ;
+- Le cours commence à **13h30**, et se termine à **17h15** 
+  *(si possible, venez quelques minutes en avance, pour préparer votre matériel)*
 
-- La visioconférence sera lancée vers **13h55** ;
+- Nous ferons une grande pause de **30 minutes**, vers 15h
 
-- Nous ferons une pause de **15 minutes** vers 15h ;
+- Sur le principe, on évite d'utiliser son **téléphone portable** pendant le cours et les pauses. Si vous avez besoin, vous pouvez me demander
+
+<span class="secondary-color"><b>Spécialités COVID</b></span>
+- **Désinfection** ou **lavage des mains** quand on entre en classe *(au début, et après les pauses)*
+
+- Les personnes âgées de **12 ans et plus** doivent porter un masque
+
+- À la fin du cours, chacun.e **désinfecte** sa place de travail
 
 ---
 class:middle
@@ -56,7 +66,7 @@ class:middle
 
 1. Présentation de Roblox Studio
 
-2. Création de 4 mini-jeux *(selon le temps à disposition)*
+2. Création de 3 mini-jeu
 
 3. Création de votre projet libre
 
@@ -68,7 +78,7 @@ class:middle
 
 - Introduction au langage de programmation *Lua*
 
-*Remarque : toutes les slides du cours sont disponibles à l'adresse suivante : [https://github.com/futurekids-io/](https://github.com/futurekids-io/)*
+*Remarque : toutes les slides du cours sont disponibles à l'adresse suivante : https://github.com/futurekids-io/*
 
 ---
 class:middle

@@ -200,7 +200,13 @@ Dans les propriétés de l'objet, vous pouvez cocher ou décocher l'option "CanC
 
 ???
 
-Défi : créer un garage aérien pour la moto : création du garage et d'une rampe d'accès
+Défi : créer un garage aérien pour la voiture : création du garage et d'une rampe d'accès
+
+---
+class:middle, center
+
+# Exercice <span class="secondary-color">pratique</span> 
+### Créons un garage pour notre voiture à l'abris !
 
 ---
 
@@ -212,13 +218,6 @@ Pour ne pas devoir tous les objets de zéro, comme notre garage, Roblox et ses u
 Pour éviter cela, ajoutez principalement les objets ayant ce logo :
 
 <img style="max-height: 200px; width: auto;" src="../sources_cours/img/cours1_safe_obj.png">
-
----
-class:middle, center
-
-# Exercice <span class="secondary-color">pratique</span> 
-### Créons un garage pour notre moto !
-
 
 ---
 
@@ -311,29 +310,27 @@ Ici, c'est votre jeu, vous faites ce que vous voulez !
 class:middle, center
 
 # Exercice <span class="secondary-color">pratique</span> 
-### Vous avez dit "zombie" ? 
+### Créez la commande pour modifier la couleur de votre garage
 
-Ajoutons au monde un modèle de zombie ;
-
-Créons une commande qui permet de l'éliminer ;
-
-Créons une deuxième commande qui permet d'éliminer le joueur.
-
+**Indice** : la valeur de votre couleur se définit comme ceci :
+```lua
+cheminVersLObjet = BrickColor.VotreCouleur()
+```
 
 ---
 
 # Vos premiers <span class="secondary-color">scripts</span>
 
-La commande pour supprimer la tête du zombie : 
+La commande pour modifier votre garage : 
 
 ```lua
-workspace.Zombie.Head:Remove()
+workspace.Garage.BrickColor = BrickColor.Green()
 ```
 
-Pour mettre la vie à zéro :
+Pour créer une couleur aléatoire à chaque fois :
 
 ```lua
-workspace.MonPseudo.Humanoid.Health = 0
+workspace.Garage.BrickColor = BrickColor.Random()
 ```
 
 *Random signifie "aléatoire" en anglais.*
