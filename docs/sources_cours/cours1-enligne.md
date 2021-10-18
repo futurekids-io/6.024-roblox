@@ -4,7 +4,7 @@ class: middle
 
 ### Cours 1
 
-#### &copy; Mikaël Ruffieux, 04.2021
+#### &copy; Mikaël Ruffieux, 07.2021
 
 <img class="first-slide-image" src="../sources_cours/img/first_slide.png">
 ---
@@ -200,13 +200,7 @@ Dans les propriétés de l'objet, vous pouvez cocher ou décocher l'option "CanC
 
 ???
 
-Défi : créer un garage aérien pour la voiture : création du garage et d'une rampe d'accès
-
----
-class:middle, center
-
-# Exercice <span class="secondary-color">pratique</span> 
-### Créons un garage pour notre voiture à l'abris !
+Défi : créer un garage aérien pour la moto : création du garage et d'une rampe d'accès
 
 ---
 
@@ -218,6 +212,13 @@ Pour ne pas devoir tous les objets de zéro, comme notre garage, Roblox et ses u
 Pour éviter cela, ajoutez principalement les objets ayant ce logo :
 
 <img style="max-height: 200px; width: auto;" src="../sources_cours/img/cours1_safe_obj.png">
+
+---
+class:middle, center
+
+# Exercice <span class="secondary-color">pratique</span> 
+### Créons un garage pour notre moto !
+
 
 ---
 
@@ -310,27 +311,29 @@ Ici, c'est votre jeu, vous faites ce que vous voulez !
 class:middle, center
 
 # Exercice <span class="secondary-color">pratique</span> 
-### Créez la commande pour modifier la couleur de votre garage
+### Vous avez dit "zombie" ? 
 
-**Indice** : la valeur de votre couleur se définit comme ceci :
-```lua
-cheminVersLObjet = BrickColor.VotreCouleur()
-```
+Ajoutons au monde un modèle de zombie ;
+
+Créons une commande qui permet de l'éliminer ;
+
+Créons une deuxième commande qui permet d'éliminer le joueur.
+
 
 ---
 
 # Vos premiers <span class="secondary-color">scripts</span>
 
-La commande pour modifier votre garage : 
+La commande pour supprimer la tête du zombie : 
 
 ```lua
-workspace.Garage.BrickColor = BrickColor.Green()
+workspace.Zombie.Head:Remove()
 ```
 
-Pour créer une couleur aléatoire à chaque fois :
+Pour mettre la vie à zéro :
 
 ```lua
-workspace.Garage.BrickColor = BrickColor.Random()
+workspace.MonPseudo.Humanoid.Health = 0
 ```
 
 *Random signifie "aléatoire" en anglais.*
