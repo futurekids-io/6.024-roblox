@@ -15,7 +15,7 @@ class: middle
   <tr>
     <td style="width: 50%;">
       <h3>Mikaël Ruffieux</h3>
-      J'ai 24 ans<br/><br/>
+      J'ai 25 ans<br/><br/>
       J'habite à <b>Epagny</b> et à <b>Neuchâtel</b><br/><br/>
       <b>Ingénieur</b> des Médias à la HEIG-VD<br/><br/>
       Mes hobbies : le <b>vélo</b> et la <b>vidéo</b><br/><br/>
@@ -36,7 +36,7 @@ class: middle
 
 - Discutez 5 min avec votre voisin.e
 
-- Présentez votre voisin.e à la classe (son nom, où il/elle habite, où il/elle va à l'école, ses hobbies, etc.)
+- Présentez votre voisin.e à la classe (son nom, où il/elle habite, où il/elle va à l'école, son jeu vidéo préféré, ses hobbies, etc.)
 
 
 ---
@@ -44,10 +44,10 @@ class:middle
 
 # Déroulement du <span class="secondary-color">cours</span>
 
-- Le cours commence à **13h30**, et se termine à **17h15** 
+- Le cours commence à **14h00**, et se termine à **17h00** 
   *(si possible, venez quelques minutes en avance, pour préparer votre matériel)*
 
-- Nous ferons une grande pause de **30 minutes**, vers 15h
+- Nous ferons une grande pause de **20 minutes**, vers 15h
 
 - Sur le principe, on évite d'utiliser son **téléphone portable** pendant le cours et les pauses. Si vous avez besoin, vous pouvez me demander
 

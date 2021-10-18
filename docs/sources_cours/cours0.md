@@ -15,7 +15,7 @@ class: middle
   <tr>
     <td style="width: 50%;">
       <h3>Mikaël Ruffieux</h3>
-      J'ai 24 ans<br/><br/>
+      J'ai 25 ans<br/><br/>
       J'habite à <b>Epagny</b> et à <b>Neuchâtel</b><br/><br/>
       <b>Ingénieur</b> des Médias à la HEIG-VD<br/><br/>
       Mes hobbies : le <b>vélo</b> et la <b>vidéo</b><br/><br/>
@@ -34,7 +34,7 @@ class: middle
 
 ## Qui <span class="secondary-color">êtes-vous</span> ?
 
-- Présentez-vous à la classe (votre nom, où vous habitez, où vous allez à l'école, vos hobbies, etc.)
+- Présentez-vous à la classe (votre nom, où vous habitez, où vous allez à l'école, votre jeu vidéo préféré, vos hobbies, etc.)
 
 
 ---
